@@ -1,6 +1,6 @@
 # fbusers
 
-Como conseguí todo los usuarios públicos (y no tanto) de usuarios de FB con pitón.
+Como conseguí todo los usuarios públicos (y no tanto) FB con pitón.
 
 How I get all public, (and not) FB Users with Python
 
